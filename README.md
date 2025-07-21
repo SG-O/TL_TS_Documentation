@@ -6,3 +6,6 @@ A list of default passwords (including undocumented ones) can be [found here](pa
 
 ## Dummy iSCSI card
 A dummy card for the iSCSI slot is [available here](Dummy_iSCSI_PCB/). It also includes the pinout of the service serial port (RJ14).
+
+## Cross flashing firmware
+Instructions for crossflashing firmware can be [found here](https://www.reddit.com/r/DataHoarder/comments/167xd5o/howto_crossflashing_firmware_on_2448bay_lto/).
